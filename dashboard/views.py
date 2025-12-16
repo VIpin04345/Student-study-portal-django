@@ -97,7 +97,7 @@ def delete_homework(request, pk=None):
 #     return requests.post(url,params=params,data=data,headers=headers,verify=verify)
 # ysp_requests.syncPostRequest=fixed_syncPostRequest
 
-
+@login_required
 def youtube(request):
     if request.method == "POST":
         form = DashboardForm(request.POST)
