@@ -9,6 +9,8 @@ class NotesForm(forms.ModelForm):
         fields = ["title", "description"]
 
 
+
+
 class DateInput(forms.DateInput):
     input_type = "date"
 
