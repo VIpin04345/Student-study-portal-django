@@ -9,7 +9,6 @@ This is a **Django-based web application** designed to help students manage thei
 It provides an all-in-one dashboard with features like notes, homework tracking, todo lists, video search, dictionary, and more.
 
 A complete **student productivity solution** 📚✨
-
 ---
 
 ## ✨ Features
@@ -22,7 +21,6 @@ A complete **student productivity solution** 📚✨
 - 🌐 Wikipedia search  
 - 🔄 Unit conversion (Length & Mass)  
 - 🔐 User authentication system  
-
 ---
 
 ## 🛠 Tech Stack
@@ -34,7 +32,6 @@ A complete **student productivity solution** 📚✨
   - Google Books API  
   - Dictionary API  
   - Wikipedia API  
-
 ---
 
 ⚙️ Installation & Setup
