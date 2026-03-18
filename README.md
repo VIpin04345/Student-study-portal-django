@@ -1,5 +1,5 @@
 # Student-study-portal-django
-A Django-based student study portal with user authentication. study material management, and role-based access controle.
+A Django-based student study portal with user authentication. study material management, and role-based access controle. where i can handle both front end and back end .
 
 
 # 🚀 Student Dashboard – Django Web App
