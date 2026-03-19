@@ -80,7 +80,7 @@ This project is licensed under the MIT License.
 
 - VIPIN YADAV
 Aspiring Software Engineer
-Python | Django | Web Development
+Python | Django | Web Development | Backend Development
  
 ⭐ If you like this project, don’t forget to star the repository!
 
