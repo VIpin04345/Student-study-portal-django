@@ -36,6 +36,7 @@ A complete **student productivity solution** 📚✨
 
 ⚙️ Installation & Setup
 
+
 1. Clone the repository
 git clone https://github.com/VIPIN04345/student-study-portal-django.git
 
